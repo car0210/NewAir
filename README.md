@@ -2,7 +2,7 @@
 
 # Overview
 
-New Air, un purificador de aire que produce una reacción catalítica liberando partículas reactivas, destruyendo el COVID-19 y otros patógenos. Además degrada otros contaminantes volviéndolos inofensivos. También  mide el nivel de contaminación del  ambiente, alerta si este es perjudicial y almacena datos en la nube.
+New Air allows purifying and at the same time measuring the level of air pollution present in the environment, alerting the user when the amount of gas exceeds a reference value. Our prototype using filters and photocatalytic processes, completely destroys COVID-19 viruses, microbes, bacteria, and other microorganisms. In addition, it effectively degrades Volatile Organic Compounds, such as formaldehyde, converting them into harmless substances such as carbon dioxide and water, and Particulate Matter, thus obtaining air free of contaminants. Air gives us our existence. Our goal is to establish early prevention of possible high levels of concentration of polluting harmful to humans.
 
 ![](images/NewAir.jpg)
 
