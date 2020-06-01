@@ -14,7 +14,7 @@ The sensors included in this project are a PM2.5, which measure dust concentrati
 
 # App
 
-Se implementó una applicación
+We managed to implement a functional prototype app using AppInventor (blocks programming), where we could fully control our air purifier and monitor the sensed data communicating with the database, which has been created using Firebase. While at the moment the app only shows values sensed, we can also implement graphics to visualize how the values change through time, including GPS data, which will turn our monitor system into a more powerful asset.
 
 ![](images/App%20Screenshots.png)
 
