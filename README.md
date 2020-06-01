@@ -6,5 +6,5 @@ New Air, un purificador de aire que produce una reacción catalítica liberando 
 
 Se usaron tales sensores y este es el esquematico del cableado.
 
-![](images/NewAirCircuit.jpg)
+![](images/NewAirCircuit.JPG)
 
