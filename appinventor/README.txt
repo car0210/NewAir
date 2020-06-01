@@ -1,7 +1,7 @@
 ReadMe PurifyMaker App
 /////////////////////////////////
 
-PurifyMaker apk
+PurifyMaker.apk
 You can install the PurifyMaker prototype app in your Android phone. Inside you can interact with the buttons and retrieve some data from the database with simulated data.
 
 PurifyMaker.aia
