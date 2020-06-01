@@ -8,3 +8,7 @@ Se usaron tales sensores y este es el esquematico del cableado.
 
 ![](images/NewAirCircuit.JPG)
 
+Se implementó una applicación
+
+![](images/AppScreenshots.png)
+
