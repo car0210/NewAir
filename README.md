@@ -18,3 +18,9 @@ Se implementó una applicación
 
 ![](images/App%20Screenshots.png)
 
+# Firebase
+
+Se ordenó la base de datos de la siguiente manera
+
+![](images/Firebase.JPG)
+
