@@ -23,4 +23,3 @@ We managed to implement a functional prototype app using AppInventor (blocks pro
 As mentioned above, we have created a Realtime Database in Firebase. We have distributed the data into childs for every sensor and other parameters such as Mode (0 = Manual Mode, 1 = Automatic Mode), Speed (0 = Normal, 1 = Fast, 2 = Night) and Start (0 = OFF, 1 = ON).
 
 ![](images/Firebase.JPG)
-
