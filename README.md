@@ -8,7 +8,7 @@ New Air allows purifying and at the same time measuring the level of air polluti
 
 # Circuit Diagram
 
-Se usaron tales sensores y este es el esquematico del cableado.
+The sensors include a PM2.5, which measure dust concentration; a CCS811, which is a VOC (Volatile Organic Compounds) sensor and detects CO2 and TVOC; a MCIS6814, which detects CO, NH3, and NO2; and a BME280, which detects pressure, temperature and humidity values from the environment. For the data processing, we are using an ESP32, which includes a Wifi and Bluetooth module, technologies that we are integrating with a mobile app in order to monitor the sensed data remotely. The LCD will display the data sensored and information such as speed modes and if the purifier is in manual or automatic mode.
 
 ![](images/NewAirCircuit.JPG)
 
