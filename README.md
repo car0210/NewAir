@@ -10,5 +10,5 @@ Se usaron tales sensores y este es el esquematico del cableado.
 
 Se implementó una applicación
 
-![](images/AppScreenshots.png)
+![](images/App%20Screenshots.png)
 
