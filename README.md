@@ -14,13 +14,13 @@ The sensors included in this project are a PM2.5, which measure dust concentrati
 
 # App
 
-We managed to implement a functional prototype app using AppInventor (blocks programming), where we could fully control our air purifier and monitor the sensed data communicating with the database, which has been created using Firebase. While at the moment the app only shows values sensed, we can also implement graphics to visualize how the values change through time, including GPS data, which will turn our monitor system into a more powerful asset.
+We managed to implement a functional prototype app using AppInventor (blocks programming), where we could fully control our air purifier and monitor the sensed data communicating with the database, which has been created using Firebase. While at the moment the app only shows values sensed, we could also implement graphics to visualize how the values change through time, including GPS data, which will turn our monitor system into a more powerful asset.
 
 ![](images/App%20Screenshots.png)
 
 # Firebase Database
 
-Se ordenó la base de datos de la siguiente manera
+As mentioned above, we have created a Realtime Database in Firebase. We have distributed the data in childs for every sensor and other parameters such as Mode (0 = Manual Mode, 1 = Automatic Mode), Speed (0 = Normal, 1 = Fast, 2 = Night) and Start (0 = OFF, 1 = ON).
 
 ![](images/Firebase.JPG)
 
