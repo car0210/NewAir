@@ -4,9 +4,13 @@ New Air, un purificador de aire que produce una reacción catalítica liberando 
 
 ![](images/NewAir.png)
 
+# Circuit Diagram
+
 Se usaron tales sensores y este es el esquematico del cableado.
 
 ![](images/NewAirCircuit.JPG)
+
+# App
 
 Se implementó una applicación
 
